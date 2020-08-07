@@ -1,2 +1,2 @@
 # SevketAY
-Veri Bilimi Bootcamp İlk Ödev
+Veri Bilimi Bootcamp Ödev Repo
